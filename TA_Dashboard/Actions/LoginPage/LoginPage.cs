@@ -8,5 +8,7 @@ namespace TA_Dashboard.Actions.LoginPage
 {
     class LoginPage
     {
+        String abc;
+
     }
 }
