@@ -8,5 +8,6 @@ namespace TA_Dashboard.Actions.CommonPage
 {
     class Utils
     {
+        string test;
     }
 }
