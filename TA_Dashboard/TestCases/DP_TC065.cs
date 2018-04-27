@@ -8,5 +8,8 @@ namespace TA_Dashboard.TestCases
 {
     class DP_TC065
     {
+        String test;
+
     }
 }
+
